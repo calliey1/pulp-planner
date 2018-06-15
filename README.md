@@ -19,7 +19,7 @@ subscription-manager repos  \
 
 ##### Installing dependencies
 ~~~
-yum install rh-ror42-rubygem-nokogiri unzip
+yum install rh-ror42-rubygem-nokogiri unzip git
 ~~~
 ##### Running on a RHEL system.
 
